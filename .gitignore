@@ -1,5 +1,6 @@
 # ignore these files:
-
+D3-challenge.code-workspace
+index_v1.html
 
 # ignore these directories/folders:
 prev_unused_versions
